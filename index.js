@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var debug = require('debug')('glint:plugin-wrap-locale');
+var debug = require('debug')('glint-plugin-wrap-locale');
 
 /**
  *  Wrap locale Plugin
